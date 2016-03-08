@@ -1,0 +1,6 @@
+{
+  "name": "eb-go-sample",
+  "description": "eb-go-sample",
+  "image": "heroku/go"
+}
+
